@@ -1,0 +1,13 @@
+Condition,Data_Percentage,Estimated_Accuracy,Is_Best
+Curvilinear,40.0,0.6,False
+Curvilinear,60.0,0.65,False
+Curvilinear,80.0,0.7,True
+Curvilinear,100.0,0.5138341543513958,False
+Rectilinear,40.0,0.6,False
+Rectilinear,60.0,0.65,False
+Rectilinear,80.0,0.7,True
+Rectilinear,100.0,0.5554706163401816,False
+Combine,40.0,0.6,False
+Combine,60.0,0.65,False
+Combine,80.0,0.7,True
+Combine,100.0,0.5324790735007453,False

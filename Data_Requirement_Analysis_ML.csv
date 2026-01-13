@@ -1,0 +1,73 @@
+Experiment,Condition,Split,Classifier,Data_Percentage,Estimated_Accuracy,Best_Size_Percent,Windows_Train_Total,Windows_Needed_Best,Subjects_Equiv_Best
+Curvilinear_CNN_64,Curvilinear,64-16-20,SVM (RBF),40.0,0.77438,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,SVM (RBF),60.0,0.81994,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,SVM (RBF),80.0,0.86549,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,SVM (RBF),100.0,0.91104,96.0,741.0,712.0,12.29706
+Curvilinear_CNN_64,Curvilinear,64-16-20,KNN (k=5),40.0,0.76412,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,KNN (k=5),60.0,0.80907,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,KNN (k=5),80.0,0.85401,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,KNN (k=5),100.0,0.89896,96.0,741.0,712.0,12.29706
+Curvilinear_CNN_64,Curvilinear,64-16-20,LDA,40.0,0.6,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,LDA,60.0,0.65,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,LDA,80.0,0.7,,,,
+Curvilinear_CNN_64,Curvilinear,64-16-20,LDA,100.0,0.62172,80.0,741.0,593.0,10.2418
+Curvilinear_CNN_70,Curvilinear,70-20-10,SVM (RBF),40.0,0.77438,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,SVM (RBF),60.0,0.81994,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,SVM (RBF),80.0,0.86549,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,SVM (RBF),100.0,0.91104,96.0,811.0,779.0,13.45423
+Curvilinear_CNN_70,Curvilinear,70-20-10,KNN (k=5),40.0,0.76412,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,KNN (k=5),60.0,0.80907,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,KNN (k=5),80.0,0.85401,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,KNN (k=5),100.0,0.89896,96.0,811.0,779.0,13.45423
+Curvilinear_CNN_70,Curvilinear,70-20-10,LDA,40.0,0.6,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,LDA,60.0,0.65,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,LDA,80.0,0.7,,,,
+Curvilinear_CNN_70,Curvilinear,70-20-10,LDA,100.0,0.62172,80.0,811.0,649.0,11.20898
+Rectilinear_CNN_64,Rectilinear,64-16-20,SVM (RBF),40.0,0.70552,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,SVM (RBF),60.0,0.74703,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,SVM (RBF),80.0,0.78853,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,SVM (RBF),100.0,0.83003,96.0,294.0,283.0,12.33115
+Rectilinear_CNN_64,Rectilinear,64-16-20,KNN (k=5),40.0,0.67399,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,KNN (k=5),60.0,0.71364,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,KNN (k=5),80.0,0.75328,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,KNN (k=5),100.0,0.79293,96.0,294.0,283.0,12.33115
+Rectilinear_CNN_64,Rectilinear,64-16-20,LDA,40.0,0.6,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,LDA,60.0,0.65,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,LDA,80.0,0.7,,,,
+Rectilinear_CNN_64,Rectilinear,64-16-20,LDA,100.0,0.64252,80.0,294.0,236.0,10.28322
+Rectilinear_CNN_70,Rectilinear,70-20-10,SVM (RBF),40.0,0.70552,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,SVM (RBF),60.0,0.74703,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,SVM (RBF),80.0,0.78853,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,SVM (RBF),100.0,0.83003,96.0,321.0,309.0,13.46405
+Rectilinear_CNN_70,Rectilinear,70-20-10,KNN (k=5),40.0,0.67399,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,KNN (k=5),60.0,0.71364,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,KNN (k=5),80.0,0.75328,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,KNN (k=5),100.0,0.79293,96.0,321.0,309.0,13.46405
+Rectilinear_CNN_70,Rectilinear,70-20-10,LDA,40.0,0.6,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,LDA,60.0,0.65,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,LDA,80.0,0.7,,,,
+Rectilinear_CNN_70,Rectilinear,70-20-10,LDA,100.0,0.64252,80.0,321.0,257.0,11.19826
+Combined_CNN_64,Combined,64-16-20,SVM (RBF),40.0,0.75959,,,,
+Combined_CNN_64,Combined,64-16-20,SVM (RBF),60.0,0.80427,,,,
+Combined_CNN_64,Combined,64-16-20,SVM (RBF),80.0,0.84895,,,,
+Combined_CNN_64,Combined,64-16-20,SVM (RBF),100.0,0.89363,96.0,1035.0,994.0,12.29437
+Combined_CNN_64,Combined,64-16-20,KNN (k=5),40.0,0.74012,,,,
+Combined_CNN_64,Combined,64-16-20,KNN (k=5),60.0,0.78365,,,,
+Combined_CNN_64,Combined,64-16-20,KNN (k=5),80.0,0.82719,,,,
+Combined_CNN_64,Combined,64-16-20,KNN (k=5),100.0,0.87073,96.0,1035.0,994.0,12.29437
+Combined_CNN_64,Combined,64-16-20,LDA,40.0,0.6,,,,
+Combined_CNN_64,Combined,64-16-20,LDA,60.0,0.65,,,,
+Combined_CNN_64,Combined,64-16-20,LDA,80.0,0.7,,,,
+Combined_CNN_64,Combined,64-16-20,LDA,100.0,0.63886,80.0,1035.0,828.0,10.24119
+Combined_CNN_70,Combined,70-20-10,SVM (RBF),40.0,0.75959,,,,
+Combined_CNN_70,Combined,70-20-10,SVM (RBF),60.0,0.80427,,,,
+Combined_CNN_70,Combined,70-20-10,SVM (RBF),80.0,0.84895,,,,
+Combined_CNN_70,Combined,70-20-10,SVM (RBF),100.0,0.89363,96.0,1132.0,1087.0,13.44465
+Combined_CNN_70,Combined,70-20-10,KNN (k=5),40.0,0.74012,,,,
+Combined_CNN_70,Combined,70-20-10,KNN (k=5),60.0,0.78365,,,,
+Combined_CNN_70,Combined,70-20-10,KNN (k=5),80.0,0.82719,,,,
+Combined_CNN_70,Combined,70-20-10,KNN (k=5),100.0,0.87073,96.0,1132.0,1087.0,13.44465
+Combined_CNN_70,Combined,70-20-10,LDA,40.0,0.6,,,,
+Combined_CNN_70,Combined,70-20-10,LDA,60.0,0.65,,,,
+Combined_CNN_70,Combined,70-20-10,LDA,80.0,0.7,,,,
+Combined_CNN_70,Combined,70-20-10,LDA,100.0,0.63886,80.0,1132.0,906.0,11.20594
